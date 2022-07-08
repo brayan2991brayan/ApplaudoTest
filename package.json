@@ -1,0 +1,22 @@
+{
+  "name": "applaudotest",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  },
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brayan2991brayan/ApplaudoTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brayan2991brayan/ApplaudoTest/issues"
+  },
+  "homepage": "https://github.com/brayan2991brayan/ApplaudoTest#readme"
+}
