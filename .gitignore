@@ -9,6 +9,7 @@ _test-output
 cypress.zip
 .babel-cache
 package-lock.json
+.DS_Store
 
 # from config, compiled .js files
 packages/config/src/*.js
